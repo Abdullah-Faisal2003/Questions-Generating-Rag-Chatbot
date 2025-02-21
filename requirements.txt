@@ -1,3 +1,13 @@
 fastapi[standard]==0.115.8
 unicorn[standard]==2.1.1
 python-multipart==0.0.20
+pymupdf==1.23.5
+langchain==0.3.19
+langchain-google-genai==2.0.10
+langchain-community==0.3.18
+chromadb==0.6.3
+sentence-transformers==3.4.1
+pillow==11.1.0
+numpy==2.2.3
+requests==2.32.3
+python-dotenv==1.0.1
