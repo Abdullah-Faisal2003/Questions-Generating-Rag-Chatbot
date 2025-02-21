@@ -1,3 +1,13 @@
 fastapi[standard]==0.115.8
-unicorn[standard]==2.1.1
+uvicorn[standard]==0.34.0
 python-multipart==0.0.20
+pymupdf == 1.23.5             # PDF text/image extraction
+langchain == 0.3.19          # Core LLM framework
+langchain-google-genai == 2.0.10  # Google Gemini integration
+langchain-community == 0.3.18 # Community integrations
+chromadb == 0.6.3            # Vector database
+sentence-transformers == 3.4.1 # Text embeddings
+pillow == 11.1.0              # Image processing
+numpy == 2.2.3              # Numerical operations
+requests == 2.32.3            # HTTP requests
+python-dotenv == 1.0.1        # Environment variable management
